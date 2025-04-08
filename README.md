@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Hi, I'm Bibo (a.k.a. bibo-byte1)
 
-<!--
-**Bibo-byte1/Bibo-byte1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an aspiring **AI Developer** diving deep into the world of **Deep Learning**, Neural Networks, and intelligent systems. I believe in building projects, learning by doing, and sharing my journey along the way.
 
-Here are some ideas to get you started:
+## 🧠 What I'm Learning
+- Deep Learning with PyTorch & TensorFlow
+- Computer Vision & Natural Language Processing
+- Explainability tools like LIME and SHAP
+- AI project structure, training models, and deployment
+- Tools like Hugging Face, OpenCV, and Jupyter
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tech Stack
+- **Languages**: Python, Bash, a bit of C++
+- **AI Libraries**: PyTorch, TensorFlow, Keras, Hugging Face Transformers, LIME
+- **Data**: Pandas, NumPy, Matplotlib, Scikit-learn
+- **Tools**: Git, GitHub, Jupyter Notebook, Google Colab
+
+## 🚀 Projects Coming Soon
+I’m currently working on:
+- 🤖 AI-powered image classifier
+- 💬 Chatbot using NLP
+- 🎯 Self-learning agent with Reinforcement Learning
+
+## 🌱 My Goals
+- Contribute to open-source AI tools
+- Build real-world deep learning apps
+- Land a role as an AI Developer 💼
+
+## 📫 Let's Connect!
+- 📧 Email: h25yos@gmail.com
